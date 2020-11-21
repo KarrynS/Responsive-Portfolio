@@ -1,27 +1,11 @@
-/*Body Stylin*/
-body {
-    font-family: 'Courier New Sans Serif', Courier, monospace;
-    font-size: 18px;
-    line-height: 27px;
-    background-color:rgb(1, 248, 236)
-}
-/*header styling*/
-.navbar.navbar-expand-sm.navbar-dark.bg-secondary {
-    height: 80px;
-}
-
-.navbar-brand {
-    font-size: 36px;
-}
-
-.nav-link {
-    font-size: 22px;
-}
-
 /*Content styline*/
+
+.h1 {
+    margin-left: 15px;
+}
 .container {
     margin-top: 20px;
-    height: auto;
+    height: 1000px;
     margin-bottom: 80px;
 }
 
@@ -35,16 +19,14 @@ body {
     margin-left: 15px;
 }
 
-/*footer styling*/
-.footer-margin {
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    bottom: 0;
-  }
-
  /*Media Queries*/
-@media screen and (max-width: 680px) {
+ /*@media screen and (min-width: 834px){
+    .container {
+        height: 1080px;
+    }
+}*/
+
+@media screen and (max-width: 768px) {
     .wrapper {
         width: 100%;
     }
@@ -54,5 +36,7 @@ body {
     .wrapper {
         width: 620px;
     }
+
+    
 
 }
