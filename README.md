@@ -10,7 +10,9 @@ https://karryns.github.io/Responsive-Portfolio/
 
 # Screenshot
 
-<img src="Assets/Screen Shot-Mobile.png"/>
-<img src="Assets/Screen Shot-Browser.png"/> 
+<img src="Assets/Screen Shot-Ipad.png"/>
+<img src="Assets/Screen Shot-iPhoneX.png"/> 
+<img src="Assets/Screen Shot-Large.png"/> 
+
 
 

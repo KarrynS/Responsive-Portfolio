@@ -5,7 +5,7 @@
 }
 .container {
     margin-top: 20px;
-    height: 1000px;
+    height: auto;
     margin-bottom: 80px;
 }
 
@@ -20,11 +20,7 @@
 }
 
  /*Media Queries*/
- /*@media screen and (min-width: 834px){
-    .container {
-        height: 1080px;
-    }
-}*/
+
 
 @media screen and (max-width: 768px) {
     .wrapper {

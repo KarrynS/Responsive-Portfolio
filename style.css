@@ -59,21 +59,24 @@ img {
   }
 
  /*Media Queries*/
- @media screen and (min-width: 834px){
+ /*@media screen and (min-width: 834px){
      .container {
          height: 1080px;
      }
-}
+}*/
 
  @media screen and (max-width: 780px){
     .container {
         width: 100%;
     }
-  }
+
+    .img-fluid {
+        width: 100%;
+    }
+  
 
 @media screen and (max-width: 480px){
     .container {
         width: 100%;
     }
 }
-
