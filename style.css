@@ -8,8 +8,9 @@ body {
     font-family: 'Courier New Sans Serif', Courier, monospace;
     font-size: 18px;
     line-height: 27px;
-    background-color: lightgray;
     height: auto;
+    background-image: url("Assets/solid.png");
+       
 }
 
 /*header styling*/
